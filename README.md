@@ -40,13 +40,13 @@ cd trader-sentiment-analysis
 ### Step 2: Install required libraries
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+pip install pandas numpy matplotlib seaborn scikit-learn in google collab
 ```
 
 ### Step 3: Run the notebook
 
 ```bash
-jupyter notebook notebook.ipynb
+collab notebook notebook.ipynb
 ```
 
 All charts and tables are generated automatically and saved in the `outputs/` directory.
